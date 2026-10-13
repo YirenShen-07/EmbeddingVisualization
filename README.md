@@ -14,7 +14,7 @@ The current code does not use Banking77 or intfloat/e5-large-v2.
 Compare projected structures and communicate how visualization choices affect interpretation. This is a technical exploration rather than a validated customer-intent classifier.
 
 ## Explore and run
-Open [the notebook](Assignment8.ipynb) in Colab. Install the imported dependencies, including sentence-transformers, and adjust the retained course-template setup paths.
+Open [the notebook](embedding_visualization.ipynb) in Colab. Install the imported dependencies, including sentence-transformers, and adjust the retained course-template setup paths.
 
 ## Limitations and next steps
 - Vocabulary tokens may be subword fragments and are not representative customer utterances.
